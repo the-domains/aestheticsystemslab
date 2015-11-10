@@ -1,7 +1,7 @@
 name: AestheticSystemsLab
 favicon: null
 layout_spectrum: 0.56992
-typography_spectrum: 0.15383
+typography_spectrum: 0.15032
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#8ca7d5'
     - '#c3d8e3'
   brandStrength: 0.75
-  lightness: 0.11917524877935648
-  saturation: 0.6752158971503377
-  rhythmicContrast: 0.48871689662337303
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
