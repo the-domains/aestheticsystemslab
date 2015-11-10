@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AestheticSystemsLab]]></title>
         <description><![CDATA[AestheticSystemsLab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aestheticsystemslab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 00:48:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 00:55:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aestheticsystemslab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aesthetic Systems Lab]]></title>
+            <description><![CDATA[<article><h1>Aesthetic Systems Lab</h1><p>I explore Walter Benjamin's techniques where he "develops [Walter Benjamin] as a socially constructed identity, one who finds himself in a shifting series of others, in the topography of the city streets, and in the detail of daily life." (Russell 1999, 275).</p><img src="https://i.vimeocdn.com/video/541640432_100x75.jpg"></article>]]></description>
+            <link>https://vimeopro.com/aestheticsystemslab/videos</link>
+            <guid isPermaLink="false">4fb398d9-4a15-4812-9250-7e61c0eeaa4c</guid>
+            <pubDate>Tue, 10 Nov 2015 00:54:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/aestheticsystemslab/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">c8800b07-ce5c-4710-9e5e-8e46c9cafbd2</guid>
             <pubDate>Tue, 10 Nov 2015 00:48:07 GMT</pubDate>
         </item>
