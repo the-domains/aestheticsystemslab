@@ -1,0 +1,23 @@
+name: AestheticSystemsLab
+favicon: null
+layout_spectrum: 0.8087232057005167
+typography_spectrum: 0.71045704302378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.718479698523879
+  lightness: 0.11917524877935648
+  saturation: 0.6752158971503377
+  rhythmicContrast: 0.48871689662337303
+purpose: []
