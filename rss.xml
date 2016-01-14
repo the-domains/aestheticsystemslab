@@ -4,8 +4,15 @@
         <description><![CDATA[Aesthetic Systems Lab]]></description>
         <link>https://thegrid.ai/aestheticsystemslab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 02:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 02:12:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aestheticsystemslab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Flag]]></title>
+            <description><![CDATA[<article><h1>Our Flag</h1><p>Cascadia is the place we live, an awesome, positive and inclusive social movement and a vision for the Pacific Northwest</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d3bea2e0165d6b2e8f97d1e85804a7848ebd928.jpg"></article>]]></description>
+            <link>http://www.cascadianow.org/about-cascadia/our-flag/</link>
+            <guid isPermaLink="false">831755c4-50a5-4055-8809-73020eba68ff</guid>
+            <pubDate>Thu, 14 Jan 2016 02:11:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Social Movement]]></title>
             <description><![CDATA[<article><h1>A Social Movement</h1><p>Cascadia more than just a bioregion and place, is a positive and inclusive social movement dedicated to empowering every person to be active and engaged about issues they care about, building towards a bioregion that is vibrant, autonomous, sustainable and accountable for it's impact.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://themusicnetwork.com/news/chinese-govt-targets-music-in-new-censorship-law</link>
             <guid isPermaLink="false">2ea986b5-3700-4e0a-923d-cd9f2c13f2ab</guid>
             <pubDate>Tue, 10 Nov 2015 06:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aesthetics has an environmental consequence: Shopocalypse]]></title>
-            <description><![CDATA[<article><h1>Aesthetics has an environmental consequence: Shopocalypse</h1><p>Words by Rev. Billy Watch movie: "What Would Jesus Buy" http://www.snagfilms.com/films/title/what_would_jesus_buy/ Thank you Rev. Billy and the Church of stop shopping, for all your hard work and de</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f447c060ae225a5980ceea2f55794214239f53e4.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=-hRfFbnlKE4</link>
-            <guid isPermaLink="false">f43c4ffd-612a-4360-b277-2a6478386a21</guid>
-            <pubDate>Tue, 10 Nov 2015 04:07:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
